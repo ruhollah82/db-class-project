@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "2222658121229a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "418b5b8daa51fa0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d2ecd44b7c8b203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase_2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase_2"
+            }
+          },
+          {
+            "id": "baac3af07b8b6ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "مقاله explain paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مقاله explain paper"
+            }
+          },
+          {
+            "id": "c85aa561df81d222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claim"
+            }
+          },
+          {
+            "id": "5072bd37a12d1514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2"
+            }
+          },
+          {
+            "id": "f6e3b8a8b16a88ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2"
+            }
+          },
+          {
+            "id": "f94f1d6c205d7a02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase 2"
+            }
+          },
+          {
+            "id": "800c0e5a97759bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee3988ca9ecb2179",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ef4185533a4756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cca0eebdaa7233de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9fa8b3dd82c787de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f622d6349d71fa7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.50043487548828
+  },
+  "right": {
+    "id": "9c57c30bc9e9041e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f57e0a660bc0436b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20180948c262b16e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 1"
+            }
+          },
+          {
+            "id": "7490ec6ac8652ddd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 1"
+            }
+          },
+          {
+            "id": "08688ff6e2261d06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "029719aa4927bd99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 2 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 2 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "math-indicator-changer:Change math indicator": false
+    }
+  },
+  "active": "800c0e5a97759bda",
+  "lastOpenFiles": [
+    "Phase 1 - Scenario.md",
+    "README.md",
+    "Scenario - AI.md",
+    "Phase 2.md",
+    "Phase 2 - AI.md",
+    "Pasted image 20260418142027.jpg",
+    "Welcome.md",
+    "~$ارش کتبی روش پژوهش و اراعه.docx",
+    "گزارش کتبی روش پژوهش و اراعه.docx",
+    "Claim.md",
+    "گزارش کتبی روش پژوهش و اراعه.md",
+    "~$Claim.docx",
+    "Claim.docx",
+    "Untitled 3.md",
+    "مقاله explain paper.md",
+    "Binary to Decimal.md",
+    "Phase_2.md",
+    "Explain Paper.md",
+    "Phase2_Documentation(1001).md",
+    "فاز یک پروژه پیشرفته.md",
+    "Phase 2_edited.md",
+    "Unconfirmed 962284.crdownload",
+    "reformed document 2.md",
+    "Phase2_Documentation.md",
+    "Phase2_Detailed_Documentation.md",
+    "Phase 2 _ Documentation.md",
+    "Unconfirmed 500833.crdownload",
+    "داکیومنت.md",
+    "Untitled 2 1.md",
+    "if statement.md",
+    "کاربرد ها.md",
+    "بهینه سازی ها.md",
+    "Walrus Optimization.md",
+    "Unconfirmed 686338.crdownload",
+    "Walrus Optimization.docx",
+    "Untitled",
+    "Untitled.canvas",
+    "Binary to Decimal.docx"
+  ]
+}
